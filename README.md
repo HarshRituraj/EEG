@@ -1,7 +1,7 @@
 # EEG
 Raw Data of EEG senor 
 
-Sensor used -> Mikroe EEG click (https://www.mikroe.com/eeg-click)
+Sensor used -> Mikroe EEG click single channel sensor (https://www.mikroe.com/eeg-click)
 
 Electrode used -> gold plated electrode (https://amzn.to/3yP010f)
 
